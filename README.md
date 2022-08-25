@@ -1,2 +1,2 @@
-# desafio_dio
-Projeto do desafio da DIO
+# Desafio de Primeiro Projeto DIO
+Repositório de projeto do desafio da DIO
